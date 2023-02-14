@@ -1,0 +1,51 @@
+/*! \mainpage My Personal Index Page
+ *
+ * \section intro_sec Introduction
+ *
+ * This is the introduction.
+ *
+ * \section install_sec Installation
+ *
+ * \subsection step1 Step 1: Opening the box
+ *
+ * etc...
+ 
+<table>
+  <tr>
+    <th>Imię</th>
+    <th>Nazwisko</th>
+    <th>Wiek</th>
+  </tr>
+  <tr>
+    <td>Jan</td>
+    <td>Kowalski</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Maria</td>
+    <td>Nowak</td>
+    <td>25</td>
+  </tr>
+</table>
+
+
+This manual is divided in the following sections:
+- \subpage page1
+
+ */
+ 
+ /*! \page page1 Dodatkowa strona dokumentacji
+  \tableofcontents
+  Leading text.
+  \section sec An example section
+  This page contains the subsections \ref subsection1 and \ref subsection2.
+  For more info see page \ref page2.
+  \subsection subsection1 The first subsection
+  Text.
+  \subsection subsection2 The second subsection
+  More text.
+*/
+ 
+/*! \page page2 Jeszcze jedna strona dokuymentacji
+  Even more info.
+*/
