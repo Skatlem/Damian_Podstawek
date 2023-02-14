@@ -30,7 +30,7 @@ public:
 
     //! \brief Destructor klasy Sequence.
     //!
-    //! Destruktor ten cofa przydział pamięci przydzielonej dynamicznie, skojarzonej z obiektem Sequence.
+    //! Destruktor ten cofa przydział pamięci przydzielanej dynamicznie, skojarzonej z obiektem Sequence.
     ~Sequence();
 
     //! \brief Akcesor dla wartości x sekwencji.
